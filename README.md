@@ -7,7 +7,6 @@ Vidfly is a responsive and visually engaging clone of YouTube, built using only 
 - 🎬 Home page with video thumbnails, titles, and metadata
 - 🔍 Search bar (UI only, no backend)
 - 📱 Responsive design for mobile, tablet, and desktop
-- 🌓 Light/Dark theme toggle (if applicable)
 - 🎥 Video player page with description and suggested videos layout
 
 ## 💡 Technologies Used
