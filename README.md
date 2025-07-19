@@ -20,8 +20,6 @@ Vidfly is a responsive and visually engaging clone of YouTube, built using only 
 
 This project is intended for learning and practicing front-end web development skills. It replicates the look and feel of a modern video platform without requiring any backend or database.
 
-## 📷 Screenshots
+## Author
 
-*(Add screenshots or GIFs here if available)*
-
-## By
+Vijay Vairagade
